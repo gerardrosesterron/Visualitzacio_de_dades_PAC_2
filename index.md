@@ -16,6 +16,8 @@ Font de dades(https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-cla
 
 * Cartograma:
  
+ ![Cartograma](Cartograma.png)
+ 
 Enllaç:(https://datastudio.google.com/s/qjEKM4nD8aU)
 
 Font de dades(https://www.gapminder.org/data/)
