@@ -14,7 +14,7 @@ Font de dades: [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-c
 
 ***********************************************************************
  
- ![Cartograma](Cartograma.png)
+ ![Cartograma](Carto.png)
  
 [Enllaç al cartograma interactiu a Google Data Studio](https://datastudio.google.com/s/qjEKM4nD8aU)
 
